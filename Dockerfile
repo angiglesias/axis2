@@ -1,6 +1,6 @@
 FROM tomcat:8.5-jre8-alpine
 
-ENV AXIS2_VERSION=1.7.7 \
+ENV AXIS2_VERSION=1.7.9 \
     AXIS2_INSTALL_DIR=/usr/local/axis2 \
     AXIS2_SERVICES_DIR=/usr/local/axis2/WEB-INF/services
 
